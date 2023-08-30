@@ -32,7 +32,7 @@ I am a U. S. Navy Veteran with Information Security, Cloud Engineer knowledge, a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+ <!--![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)!-->
 ![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!-- <p>&nbsp;</p> !-->
 
