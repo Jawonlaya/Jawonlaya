@@ -15,8 +15,6 @@ I am a U. S. Navy Veteran with Information Security, Cloud Engineer knowledge, a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawonlaya&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
 <!-- Markdown badges !-->
-<!--![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)-->
 
 ## 🛠️ ***My Tech***
 
@@ -24,7 +22,6 @@ I am a U. S. Navy Veteran with Information Security, Cloud Engineer knowledge, a
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-151515?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -34,7 +31,7 @@ I am a U. S. Navy Veteran with Information Security, Cloud Engineer knowledge, a
  <!--![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)!-->
 ![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!-- <p>&nbsp;</p> !-->
-
+<!--![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)!-->
 <!-- Self Biography !-->
 <!-- <br> !-->
  
