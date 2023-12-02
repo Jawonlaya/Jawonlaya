@@ -45,12 +45,15 @@ I am a U. S. Navy Veteran with Information Security, Cloud Engineer knowledge, a
 
 # What projects am I currently working on?
 
+https://github.com/Jawonlaya/100-Days-of-Python
+
+<!--
 <a href="https://github.com/Jawonlaya/TryHackMe-Projects">
   
  <img src= "https://user-images.githubusercontent.com/115058054/234483437-4075bcae-04d8-4603-a9f7-9232709f16b4.png">
 </a>
 
-<!--
+
 
 Here are some ideas to get you started:
 
